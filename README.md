@@ -44,7 +44,7 @@ This project observes traffic between virtual machines, to start, 2 virtual mach
 <img src="https://i.imgur.com/aMKE5S7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/uwsvL0u.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/WFcNeq0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-A program called Wireshark is installed in order to record and analyze data traffic between the two virtual machines. Types of traffic that will be observed are ICMP,SSH, DHCP, DNS, and RDP. In addition, connectivity, security poliocies and protocol behaviour is observed. 
+A program called Wireshark is installed in order to record and analyze data traffic between the two virtual machines. Types of traffic that will be observed are ICMP, TCp and RDP. In addition, connectivity, security poliocies and protocol behaviour is observed. 
 </p>
 <br />
 
