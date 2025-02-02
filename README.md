@@ -50,7 +50,7 @@ A program called Wireshark is installed in order to record and analyze data traf
 
 <h2>3. Configuring a firewall [Network Security Group]</h2>
 <p>
-<img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CF8DkrD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/FtTRQM5.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/SS7IcJt.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Further more other types of data like DHCP, DNS, and UDP can be observed. As shown by the lines of traffic, the data is being sent from one ip to another which indicated the linux and window machines are communicating with each other.
