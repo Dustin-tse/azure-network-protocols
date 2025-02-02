@@ -31,7 +31,7 @@ In this project, I observe various network traffic to and from Azure Virtual Mac
 <h2>1. Create Virtual machines, Vnet, Resource Group</h2>
 
 <p>
-<img src="https://i.imgur.com/vmdzc1w.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/JvLS4Bn.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/vmdzc1w.png" height="40%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/JvLS4Bn.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/UlU18E6.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
