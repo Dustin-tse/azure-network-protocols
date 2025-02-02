@@ -41,16 +41,16 @@ This project observes traffic between virtual machines, to start, 2 virtual mach
 
 <h2>2. Observe ICMP Traffic</h2>
 <p>
-<img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aMKE5S7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/uwsvL0u.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/WFcNeq0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A program called Wireshark is installed in order to record and analyze data traffic between the two virtual machines. Types of traffic that will be observed are ICMP,SSH, DHCP, DNS, and RDP. In addition, connectivity, security poliocies and protocol behaviour is observed. 
 </p>
 <br />
 
 <h2>3. Configuring a firewall [Network Security Group]</h2>
 <p>
-<img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
