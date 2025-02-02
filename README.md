@@ -44,7 +44,7 @@ This project observes traffic between virtual machines, to start, 2 virtual mach
 <img src="https://i.imgur.com/aMKE5S7.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/uwsvL0u.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/WFcNeq0.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-A program called Wireshark is installed in order to record and analyze data traffic between the two virtual machines. Types of traffic that will be observed are ICMP, TCp and RDP. In addition, connectivity, security poliocies and protocol behaviour is observed. 
+A program called Wireshark is installed in order to record and analyze data traffic between the two virtual machines. Types of traffic that will be observed are ICMP, TCP and RDP. In addition, connectivity, security poliocies and protocol behaviour is observed. 
 </p>
 <br />
 
@@ -53,6 +53,6 @@ A program called Wireshark is installed in order to record and analyze data traf
 <img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Further more other types of data like DHCP, DNS, and UDP can be observed. As shown by the lines of traffic, the data is being sent from one ip to another which indicated the linux and window machines are communicating with each other.
 </p>
 <br />
